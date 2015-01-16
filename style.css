@@ -1,0 +1,233 @@
+*{margin:0;padding:0}
+body{font-family:arial;font-size:14px;line-height:22px;color:#000}
+.fix{overflow:hidden;}
+.main{width:1200px; margin:0px auto;display:block}
+.parvez1{background-color: #3A5795;height:85px;margin-top: -8px}
+.img4{position: relative;left:113px;top:15px;width:255px;}
+.sazzad1{}
+.sazzad3{margin-left:625px;margin-top:-47px;color: white}
+.sp1{border:1px solid;width:170px;margin-left: 624px;background-color: white;height:20px;}
+.sazzad4{position: relative;
+left: 153px;
+top: 2px;
+width: 15px;}
+.sazzad5{width: 11px;margin-left: 626px;}
+.sazzad6{margin-left: 642px;
+margin-top: -23px;
+font-size: 9px;
+color: white;}
+.sazzad7{margin-left:812px;margin-top: -68px;color: white;}
+.sp3{border: 1px solid;
+    width: 172px;
+    margin-left: 812px;
+    background-color: white;
+    height:20px;margin-top: 3px;}
+.sazzad8{margin-left: 155px;margin-top: 5px;}
+.sazzad9{width: 10px;margin-left: 814px;}
+.sazzad10{margin-left:830px;font-size: 9px;color: white;margin-top: -22px;}
+.sp4{border:1px solid 5E77AA;width:72px;left:1003px;top:-42px;position:relative;height:21px;background-color:#5E77AA}
+.sazzad1{}
+.sazzad11{margin-left: 12px;
+color: white;
+margin-top: -2px;
+font-size: 14px;
+opacity: 0.6;}
+.sazzad12{margin-left:270px;margin-top: 12px;}
+.img{}
+.parvez2{}
+.sazzad13{font-size: 15px;color:#7A5B60;}
+.sazzad14{font-size: 15px;top: -253px;color: #7A5B60;position: relative;left: 272px}
+.sazzad15{height:90px}
+.sazzad16{margin-left: 356px;margin-top: -85px;font-size: 31px;height: 40px;font-family:san;}
+.sazzad016{position: relative;top: -328px;left: 284px}
+.sazzad17{margin-left: 356px;font-size: 17px;margin-top: -11px;}
+.sazzad18{background-color:#DADEEC;}
+.rr{background-color:#f4f5f9}
+.sazzad19{width: 135px;margin-left: 130px;height: 243px;margin-top: 45px;}
+.sazzad013{position:relative;top: -250px;left: 270px;font-size: 15px;color:#7A5B60;}
+
+.sazzad21{border: 1px solid;width:160px;margin-left:320px;margin-top: -110px;background-color:#E6E6E6 }
+.sazzad021{width: 344px;position: relative;left: 263px;top: -210px;background-color: #FAFAFC;}
+.sazzad22{margin-left: 5px;font-size: 14px;}
+.sazzad23{border: 1px solid;width: 185px;left: 620px;top: -132px;height: 30px;position: relative;border-radius: 6px;}
+.sazzad24{position:relative;top:3px;font-size: 14px;color:#9FA1B6;margin-left: 10px;}
+.sazzad024{border: 1px solid;
+    width: 160px;
+    height: 29px;
+    left: 639px;
+    top: -303px;
+    position: relative;
+    border-radius: 10%;background: white}
+.sazzad25{width: 14px;left: 146px;top: -15px;position: relative;}
+.sazzad26{border: 1px solid;
+width: 160px;
+left: 825px;
+position: relative;
+top: -162px;
+height: 28px;
+border-radius: 6px;background: white}
+.sazzad27{margin-left:13px;
+font-size:15px;
+margin-top:4px;
+color:#BBC7D6;}
+.sazzad027{border: 1px solid;
+width: 122px;
+border-radius: 10%;
+position: relative;
+top: -333px;
+left: 815px;
+height: 28px;background: white}
+.sazzad28{}
+.sazzad29{}
+.sazzad30{font-size: 17px;margin-left: 12px;margin-top: 4px;color:#9EA0B4;}
+.sazzad030{border: 1px solid;
+width: 298px;
+height: 30px;
+border-radius: 10%;
+top: -316px;
+position: relative;
+left: 638px;background: white}
+.sazzad31{}
+.sazzad32{font-size: 16px;
+margin-left: 14px;
+margin-top: 7px;color:#9EA0B4;}
+.sazzad032{border: 1px solid;
+width: 302px;
+height: 34px;
+position: relative;
+top: -295px;
+left: 638px;border-radius:10%;background: white}
+.sazzad33{}
+.sazzad34{font-size: 16px;
+margin-left:17px;
+margin-top:8px;color:#9EA0B4}
+.sazzad034{border: 1px solid;
+width: 310px;
+height: 35px;
+position: relative;
+top: -270px;
+left:637px;border-radius:7px;background-color:#FFFFFF}
+.sazzad0034{margin-left: 295px;
+top: -20px;
+position: relative;
+width: 15px;}
+.sazzad35{}
+.sazzad36{margin-left: 641px;
+margin-top: -255px;
+font-size: 20px;
+color:#322945;}
+.month{}
+.sazzad37{}
+.sazzad38{margin-left: 642px;
+font-size: 13px;
+margin-top:10px;
+border: 1px solid;
+padding: 6px 3px;
+border-radius:10%;
+width: 67px;
+height: 17px;background-color: #E3E6F0;
+color: #2D3358}
+.sazzad39{position: relative;
+left: 701px;
+top: -26px;
+width: 13px}
+.day1{margin-left: 719px;
+border: 1px solid;
+width: 50px;
+height: 20px;
+padding: 4px;
+font-size: 15px;
+border-radius: 7%;
+margin-top: -52px;background-color:#E3E6F0;color:#2D3358}
+.day2{position: relative;
+left: 761px;
+top: -24px;
+width: 13px;}
+.sazzad40{}
+.sazzad41{}
+.sazzad42{}
+.sazzad43{}
+.sazzad44{margin-left: 780px;
+border: 1px solid;
+width: 50px;
+height: 19px;
+padding: 4px;
+font-size: 15px;
+border-radius: 7%;
+margin-top: -51px;background-color:#E3E6F0;color:#2D3358}
+.sazzad45{position: relative;
+left: 823px;
+top: -23px;
+width: 13px}
+.sazzad46{}
+.sazzad47{margin-left: 846px;
+margin-top: -56px;
+font-size: 12px;
+line-height: 18px;color:#3A5795;}
+.sazzad48{border: 1px solid;
+padding: 4px;
+width: 0px;
+border-radius: 40%;
+margin-left: 645px;
+margin-top: 11px;background-color:#DEDEDE }
+.sazzad49{}
+.sazzad50{margin-left: 660px;
+margin-top: -15px;}
+.sazzad51{border: 1px solid;
+padding: 4px;
+width: 0px;
+border-radius: 40%;
+margin-left: 758px;
+margin-top: -16px;
+background-color: #DEDEDE}
+.sazzad52{}
+.sazzad53{margin-left: 775px;
+margin-top: -15px;}
+.sazzad54{}
+.sazzad55{line-height: 15px;
+margin-left: 645px;
+font-size: 12px;
+margin-top: 5px;color:#3A5795;}
+.sazzad56{}
+.sazzad57{margin-left: 645px;
+margin-top: 15px;
+border: 1px solid 5A8F46;
+width: 90px;
+padding: 8px 11px;
+border-radius: 10%;
+font-family: san;
+font-size: 27px;
+background-color:#5A8F46;}
+.sazzad057{border-bottom: 1px solid;
+width: 369px;
+margin-top: 10px;
+margin-left: 640px;
+height: 5px;}
+.sazzad0057{height:25px;
+margin-left: 630px;
+margin-top: 16px;}
+.sazzad58{}
+.sazzad59{font-size: 15px;
+margin-left: 8px;
+color:#4B5998}
+.sazzad60{margin-left: 93px;
+margin-top: -22px;
+font-size: 14px;
+color:#3A5795;}
+.rest{height:200px;}
+.rest01{position: relative;
+top: 10px;
+font-size: 14px;color:#53A1EB}
+.rest1{border: 1px solid;
+margin-top: 14px;
+width:1016px;color: #AC9999;}
+.rest2{font-family:sans-saref;
+height: 50px;
+font-size: 18px;
+margin-top: 6px;
+line-height: 25px;
+padding: 5px 0px;color:#53A1EB}
+.rest3{margin-top: 40px;
+color:#AC9999;}
+.rest4{margin-top:-4px;
+color:#53A1EB;}
